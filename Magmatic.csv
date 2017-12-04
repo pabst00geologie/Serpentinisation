@@ -1,0 +1,28 @@
+RIDGE,PROFILE,MAG,REFERENCE
+MAR,15oN,35,"Cannat et al., 2004 and Cannat et al., 2010"
+MAR,23oN,35,"Cannat et al., 2004 and Cannat et al., 2010"
+SWIR,61o-69oN,10,"Cannat et al., 2004 and Cannat et al., 2010"
+MAR,23o15'-23o40'N,60,"Dick et al., 2008 in Cannat et al., 2010"
+MAR,Ararat and Babel Domes,77.9,"Dick et al., 2008 (Fig. 3A)"
+MAR,Cain and Abel Domes,44.8,"Dick et al., 2008 (Fig. 3A)"
+MAR,Adam and Eve Domes,76,"Dick et al., 2008 (Fig. 3A)"
+Gakkel,3oE - 29oE,20,"Michael et al., 2003 "
+MAR,38oW and 34oN OT8,21.4,Grˆcia et al. 1997 (determined from proportion in Fig. 1C)
+MAR,38oW and 34oN OT14,57,Grˆcia et al. 1997 (determined from proportion in Fig. 1C)
+Gakkel,85-87oN and 20-90oE,71,Liu et al. 2008 (determined from visual inspection of Fig. 1)
+SWIR ,Antarctic,56.7,Dick (1989)
+SWIR ,Antarctic Fracture Zones,44,Dick (1989)
+SWIR ,Fracture Zones,35,Dick (1989)
+SWIR,East of Mayes seamont (11o30' to 14o24'E),34.1,Dick et al. 2003
+East Pacific Rise,Easter microplate,84.1,Hekinian et al. 1996 (Table 1) 
+East Pacific Rise,Garrett Transform,50,Niu and HŽkinian 1997 (Table 1) 
+East Pacific Rise,Hess Deep; 26-36oW to 14-20oN ,80.5,Franchetau et al. 1990
+East Pacific Rise,Hess Deep ,72.5,HŽkinian et al. 1993
+East Pacific Rise,Terevaka transform fault (Dredge 83DS),23,Constantin et al. 1995
+CIR,65-68oE; 12-16oS,71,Engel and Fisher 1975 (table 1) 
+SWIR ,Atlantis II Fracture Zone ,57,Dick et al. 1991
+East Pacific Rise,Garrett Transform (13o30'S),73,HŽbert et al. 1983 (Table 1) 
+East Pacific Rise,45oW; 15oN Fifteen Twenty Fracture Zone,47,Rona et al. 1987
+NWIO (Mid-Indian Carlsberg Ridge) ,Owen Fracture Zone,1,Hamlyn and Bonatti 1980
+Red Sea Rift,Zabargard,63.8,Bonatti and Seyler 1987 (Table 7)
+Mid-Indian Ridge,Sheba Ridge and Owen Fracture Zone,0,Bonatti and Hamlyn 1978
